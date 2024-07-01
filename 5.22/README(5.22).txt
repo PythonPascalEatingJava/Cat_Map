@@ -1,0 +1,6 @@
+对按钮状态的说明
+ready在鼠标移到按钮上方且未按下时触发
+pressed在鼠标移到按钮上方且按下时触发
+
+button1的三个状态是相互替换的
+catbutton的ready和pressed需要在对应时间出发时出现在对应catbutton下层，体现为“附加效果”
