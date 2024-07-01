@@ -1,0 +1,213 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1cat.jpg</file>
+        <file>2cat.jpg</file>
+        <file>3cat.jpg</file>
+        <file>4cat.jpg</file>
+        <file>5cat.jpg</file>
+        <file>6cat.jpg</file>
+        <file>7cat.jpg</file>
+        <file>8cat.jpg</file>
+        <file>9cat.jpg</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>10.png</file>
+        <file>11.png</file>
+        <file>12.png</file>
+        <file>9.png</file>
+        <file>10cat.jpg</file>
+        <file>11cat.jpg</file>
+        <file>12cat.jpg</file>
+        <file>search.png</file>
+        <file>5.17/chunbai.jpg</file>
+        <file>5.17/chunhei.jpg</file>
+        <file>5.17/daimao.jpg</file>
+        <file>5.17/ju.jpg</file>
+        <file>5.17/lihua.jpg</file>
+        <file>5.17/nainiu.jpg</file>
+        <file>5.17/sanhua.jpg</file>
+        <file>5.17/beginmenu.png</file>
+        <file>5.17/beginmenu2.png</file>
+        <file>5.17/button1.jpg</file>
+        <file>5.17/button1_pressed.jpg</file>
+        <file>5.17/notice.jpg</file>
+        <file>5.17/color.png</file>
+        <file>5.22/others/all.jpg</file>
+        <file>5.17/mainmenu2.png</file>
+        <file>5.17/mainmenu3.png</file>
+        <file>5.22/others/catbutton_ready.jpg</file>
+        <file>5.22/others/catbutton_pressed.png</file>
+        <file>5.22/ready.jpg</file>
+        <file>5.22/others/male.jpg</file>
+        <file>5.22/others/female.jpg</file>
+        <file>5.22/others/unknowngender.jpg</file>
+        <file>background.jpg</file>
+        <file>5.22/others/afraid.jpg</file>
+        <file>5.22/others/feed.jpg</file>
+        <file>5.22/others/hug.jpg</file>
+        <file>5.22/others/shrodinger.jpg</file>
+        <file>5.22/others/stroke.jpg</file>
+        <file>meow_all.MP3</file>
+        <file>feed_info.jpg</file>
+        <file>vaccine.jpg</file>
+        <file>5.17/mainmenu.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>Image/Image/1.png</file>
+        <file>Image/Image/2.png</file>
+        <file>Image/Image/3.png</file>
+        <file>Image/Image/4.png</file>
+        <file>Image/Image/5.png</file>
+        <file>Image/Image/6.png</file>
+        <file>Image/Image/7.png</file>
+        <file>Image/Image/8.png</file>
+        <file>Image/Image/9.png</file>
+        <file>Image/Image/10.png</file>
+        <file>Image/Image/11.png</file>
+        <file>Image/Image/12.png</file>
+        <file>Image/Image/13.png</file>
+        <file>Image/Image/14.png</file>
+        <file>Image/Image/15.png</file>
+        <file>Image/Image/16.png</file>
+        <file>Image/Image/17.png</file>
+        <file>Image/Image/18.png</file>
+        <file>Image/Image/19.png</file>
+        <file>Image/Image/20.png</file>
+        <file>Image/Image/21.png</file>
+        <file>Image/Image/22.png</file>
+        <file>Image/Image/23.png</file>
+        <file>Image/Image/24.png</file>
+        <file>Image/Image/25.png</file>
+        <file>Image/Image/26.png</file>
+        <file>Image/Image/27.png</file>
+        <file>Image/Image/28.png</file>
+        <file>Image/Image/29.png</file>
+        <file>Image/Image/30.png</file>
+        <file>Image/Image/31.png</file>
+        <file>Image/Image/32.png</file>
+        <file>Image/Image/33.png</file>
+        <file>Image/Image/34.png</file>
+        <file>Image/Image/35.png</file>
+        <file>Image/Image/36.png</file>
+        <file>Image/Image/37.png</file>
+        <file>Image/Image/38.png</file>
+        <file>Image/Image/39.png</file>
+        <file>Image/Image/40.png</file>
+        <file>Image/Image/41.png</file>
+        <file>Image/Image/42.png</file>
+        <file>Image/Image/43.png</file>
+        <file>Image/Image/44.png</file>
+        <file>Image/Image/45.png</file>
+        <file>Image/Image/46.png</file>
+        <file>Image/Image/47.png</file>
+        <file>Image/Image/48.png</file>
+        <file>Image/Image/49.png</file>
+        <file>Image/Image/50.png</file>
+        <file>Image/Image/51.png</file>
+        <file>Image/Image/52.png</file>
+        <file>Image/Image/53.png</file>
+        <file>Image/Image/54.png</file>
+        <file>Image/Image/55.png</file>
+        <file>Image/Image/56.png</file>
+        <file>Image/Image/57.png</file>
+        <file>Image/Image/58.png</file>
+        <file>Image/Image/59.png</file>
+        <file>Image/Image/60.png</file>
+        <file>Image/Image/61.png</file>
+        <file>Image/Image/62.png</file>
+        <file>Image/Image/63.png</file>
+        <file>Image/Image/64.png</file>
+        <file>Image/Image/65.png</file>
+        <file>Image/Image/66.png</file>
+        <file>WAVs/WAVs/meow_all.wav</file>
+        <file>WAVs/WAVs/meow_ori.wav</file>
+        <file>WAVs/WAVs/meow1.wav</file>
+        <file>WAVs/WAVs/meow2.wav</file>
+        <file>WAVs/WAVs/meow3.wav</file>
+        <file>WAVs/WAVs/meow4.wav</file>
+        <file>WAVs/WAVs/meow5.wav</file>
+        <file>WAVs/WAVs/NYA!!.wav</file>
+        <file>WAVs/WAVs/with you.wav</file>
+        <file>Image(1)/untitled folder/1.png</file>
+        <file>Image(1)/untitled folder/2.png</file>
+        <file>Image(1)/untitled folder/3.png</file>
+        <file>Image(1)/untitled folder/4.png</file>
+        <file>Image(1)/untitled folder/5.png</file>
+        <file>Image(1)/untitled folder/6.png</file>
+        <file>Image(1)/untitled folder/7.png</file>
+        <file>Image(1)/untitled folder/8.png</file>
+        <file>Image(1)/untitled folder/9.png</file>
+        <file>Image(1)/untitled folder/10.png</file>
+        <file>Image(1)/untitled folder/11.png</file>
+        <file>Image(1)/untitled folder/12.png</file>
+        <file>Image(1)/untitled folder/13.png</file>
+        <file>Image(1)/untitled folder/14.png</file>
+        <file>Image(1)/untitled folder/15.png</file>
+        <file>Image(1)/untitled folder/16.png</file>
+        <file>Image(1)/untitled folder/17.png</file>
+        <file>Image(1)/untitled folder/18.png</file>
+        <file>Image(1)/untitled folder/19.png</file>
+        <file>Image(1)/untitled folder/20.png</file>
+        <file>BigImage/BigImage/1cat.png</file>
+        <file>BigImage/BigImage/2cat.png</file>
+        <file>BigImage/BigImage/3cat.png</file>
+        <file>BigImage/BigImage/4cat.png</file>
+        <file>BigImage/BigImage/5cat.png</file>
+        <file>BigImage/BigImage/6cat.png</file>
+        <file>BigImage/BigImage/11cat.png</file>
+        <file>BigImage/BigImage/12cat.png</file>
+        <file>BigImage/BigImage/13cat.png</file>
+        <file>BigImage/BigImage/14cat.png</file>
+        <file>BigImage/BigImage/15cat.png</file>
+        <file>BigImage/BigImage/16cat.png</file>
+        <file>BigImage/BigImage/17cat.png</file>
+        <file>BigImage/BigImage/18cat.png</file>
+        <file>BigImage/BigImage/19cat.png</file>
+        <file>BigImage/BigImage/20cat.png</file>
+        <file>../../jueyu.jpg</file>
+        <file>../../chazhaomaomao.png</file>
+        <file>../../chazhaomaomao_press.png</file>
+        <file>../../renmaohexie.png</file>
+        <file>../../renmaohexie_press.png</file>
+        <file>../../xuzhi.png</file>
+        <file>../../xuzhi_press.png</file>
+        <file>../../riguang.jpg</file>
+        <file>BigImage/BigImage/7cat.png</file>
+        <file>BigImage/BigImage/8cat.png</file>
+        <file>BigImage/BigImage/10cat.png</file>
+        <file>BigImage/BigImage/9cat.png</file>
+        <file>../../notice.png</file>
+        <file>../../catinfo.txt</file>
+        <file>../../catlist.txt</file>
+        <file>../../about maoxie.txt</file>
+        <file>../../extra texts.txt</file>
+        <file>../../relation.txt</file>
+        <file>../../steralization.txt</file>
+        <file>../../to feed.txt</file>
+        <file>../../vaccine.txt</file>
+        <file>../../back.png</file>
+        <file>../../back_press.png</file>
+        <file>others/about maoxie.txt</file>
+        <file>others/back.png</file>
+        <file>others/back_press.png</file>
+        <file>others/catinfo.txt</file>
+        <file>others/catlist.txt</file>
+        <file>others/chazhaomaomao.png</file>
+        <file>others/chazhaomaomao_press.png</file>
+        <file>others/extra texts.txt</file>
+        <file>others/jueyu.jpg</file>
+        <file>others/notice.png</file>
+        <file>others/relation.txt</file>
+        <file>others/renmaohexie.png</file>
+        <file>others/renmaohexie_press.png</file>
+        <file>others/riguang.jpg</file>
+        <file>others/steralization.txt</file>
+        <file>others/to feed.txt</file>
+        <file>others/vaccine.txt</file>
+        <file>others/xuzhi.png</file>
+    </qresource>
+</RCC>
